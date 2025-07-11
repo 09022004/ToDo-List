@@ -28,7 +28,7 @@ Tech Stack
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/todo-list.git
+git clone https://github.com/09022004/todo-list.git
 
 # Navigate into the project directory
 cd todo-list
