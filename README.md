@@ -8,35 +8,32 @@ Features
 - Delete tasks
 - Mark tasks as completed
 - Clean, responsive UI
-- Persistent storage (if used with backend)
+- Persistent storage 
 
 Tech Stack
 
-- Frontend: HTML5, CSS3, JavaScript (Vanilla or React — edit if needed)
-- Backend: Django + SQLite (or MongoDB, if used)
-- Styling: Custom CSS / Bootstrap (if used)
+- Frontend: HTML5, CSS3, JavaScript 
+- Backend: Django + SQLite 
+- Styling: Custom CSS
 
  Screenshots
+ <img width="876" height="718" alt="image" src="https://github.com/user-attachments/assets/2dbd07b3-adbe-4965-a668-15213715bfd2" />
+ 
 
  Requirements
 
 - Python 3.x
-- Django (if backend is Django)
-- Node.js + npm (if frontend is React)
+- Django 
+
 
 ### 🖥️ How to Run Locally
 
 ```bash
-# Clone the repository
-git clone https://github.com/09022004/todo-list.git
+#download the zip folder
+#unzip the folder and run on terminal
 
 # Navigate into the project directory
-cd todo-list
 
-# If using Django
-pip install -r requirements.txt
+# Install django and run the following in the terminal
 python manage.py runserver
 
-# If using React
-npm install
-npm start
